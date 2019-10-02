@@ -13,7 +13,7 @@ import java.io.*;
  * @author kitty
  * @author Carlos J. Garcia Carmona
  * @version 2.0
- * <p>
+ *
  * Class Definition:
  */
 public class DataExample {
